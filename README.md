@@ -13,7 +13,7 @@ This repository serves as the central showcase for the entire project.
 * **Customizable Interviews:** Users can create personalized interviews by specifying the job role, experience level, number of questions, and specific technologies to cover.
 * **Real-Time Voice Interviews:** Engage in lifelike, real-time mock interviews with an AI agent powered by Vapi and Google Gemini. The session includes a live transcript of the conversation.
 * **Detailed Feedback:** Receive a comprehensive feedback report after each interview, including an overall score, a breakdown of performance in key areas (like communication and technical knowledge), and specific points for improvement.
-* **User Dashboard:** A clean dashboard to manage and review past interviews, as well as take pre-generated or custom-made interviews.
+* **User Dashboard:** A clean dashboard to manage and review past interviews, as well as take pre-generated or customize interviews.
 * **Fully Responsive Design:** A seamless experience across all devices, including desktops, tablets, and mobile phones.
 
 ---
