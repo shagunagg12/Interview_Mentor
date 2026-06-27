@@ -34,7 +34,7 @@ This project is built using a modern, full-stack tech stack with Next.js and Typ
 | **Database & Auth** | Firebase (Firestore & Authentication)                           |
 | **Styling & UI** | Tailwind CSS, Shadcn UI                                         |
 | **Form Validation** | Zod                                                             |
-| **Deployment** | Vercel / Netlify                                                |
+| **Deployment** | Vercel                                             |
 
 ---
 
